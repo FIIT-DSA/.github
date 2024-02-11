@@ -4,7 +4,8 @@ Presentation 2024 https://bit.ly/fiit-dsa
 
 [2023](https://docs.google.com/presentation/d/1O76KDGSoI795rsJ3YIh035o7c5xl2rcnhv8OyOx6438/edit#slide=id.p) - 
 [2022](https://docs.google.com/presentation/d/1Pnq0ttpUiaG6scH1ZlH3u3CBaxuhebO_KbDm07jrl5E/edit#slide=id.p) -
-[Huffmann coding](https://docs.google.com/presentation/d/1_mkkrvheWhp8Y063_doe_fy5oO7O45XLiB3mosOznl0/edit#slide=id.g2442909a675_0_115)
+[Huffmann coding](https://docs.google.com/presentation/d/1_mkkrvheWhp8Y063_doe_fy5oO7O45XLiB3mosOznl0/edit#slide=id.g2442909a675_0_115) -
+[DSA types](https://drive.google.com/drive/folders/12WNhTbcEM5iuAPvVRL8dohTFMOp4E--v)
 
 
 ## References
